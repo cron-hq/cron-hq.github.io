@@ -1,0 +1,1 @@
+# Files such as .DS_Store on macOS should be excluded system-wide: > git config --global core.excludesfile "~/.gitignore_global_macos"
